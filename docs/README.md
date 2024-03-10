@@ -8,7 +8,7 @@
     input: process.stdin,
     output: process.stdout,
 
-});
+  });
 
 let input = [];
 
